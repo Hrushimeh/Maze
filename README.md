@@ -1,4 +1,4 @@
-# 🍅 Maze Generator & Solver 🍅
+# 🍅🍅🍅 Maze Generator & Solver 🍅🍅🍅🍅
 
 A Java-based maze generation and solving application with an interactive GUI interface.
 
